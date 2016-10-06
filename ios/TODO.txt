@@ -1,0 +1,4 @@
+List of things to do on the Sodoku desktop app. 
+
+1. Enable navigation by keybord in the sodoku entries. 
+2. Change the text in the menu bar from Sodoku_desktop_app to something better.
